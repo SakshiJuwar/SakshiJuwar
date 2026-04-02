@@ -20,7 +20,7 @@
 - 🧠 Exploring **AI (RAG, Vector DBs, LLMs)**
 - 🛠️ Strong in **Backend + API Development + System Design**
 - 🌱 Always learning and improving
-- 📍 India  
+- 📍 Pune, Maharashtra, India  
 - 💼 **Actively Open to Work Opportunities**
 
 ---
