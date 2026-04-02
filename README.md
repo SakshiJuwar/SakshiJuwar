@@ -48,7 +48,7 @@
 `React.js` `Bootstrap` `Tailwind CSS`
 
 ### 🗄️ Databases  
-`MySQL` `MongoDB`
+`MySQL` `MongoDB` `Firebase` `Supabase`
 
 ### 🧠 AI / Advanced Concepts  
 `RAG` `Cohere Embeddings` `Vector Databases (Pinecone)` `LLMs`
