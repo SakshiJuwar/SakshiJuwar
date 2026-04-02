@@ -18,6 +18,7 @@
 💡 I enjoy transforming complex ideas into real-world solutions using modern technologies.  
 
 - 🧠 Exploring **AI (RAG, Vector DBs, LLMs)**
+- ⚛️ Experienced with **React.js, Next.js & Node.js**
 - 🛠️ Strong in **Backend + API Development + System Design**
 - 🌱 Always learning and improving
 - 📍 Pune, Maharashtra, India  
@@ -45,7 +46,7 @@
 `Django` `Node.js` `Express.js` `ASP.NET` `REST APIs`
 
 ### 🎨 Frontend  
-`React.js` `Bootstrap` `Tailwind CSS`
+`React.js` `Next.js` `React Native` `Bootstrap` `Tailwind CSS`
 
 ### 🗄️ Databases  
 `MySQL` `MongoDB` `Firebase` `Supabase`
@@ -62,9 +63,11 @@
 
 ### 🔹 AI PDF Chatbot (RAG-Based)
 - Built an intelligent chatbot to interact with PDFs  
-- Implemented **semantic search using embeddings**  
-- Integrated **Cohere + Pinecone + OpenAI**  
-- Tech: React, Next.js, Node.js, Python  
+- Extracted and processed PDF content using **PyMuPDF**  
+- Implemented **semantic search using embeddings** for accurate retrieval  
+- Integrated **Cohere + Pinecone + OpenAI (LLM)** for response generation  
+- Designed end-to-end **RAG pipeline (Retrieval-Augmented Generation)**  
+- Tech: React, Next.js, Node.js, Python, PyMuPDF  
 
 ---
 
